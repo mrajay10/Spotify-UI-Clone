@@ -290,6 +290,6 @@ a {
 p:hover {
     text-decoration: underline;
 }
-/* h2:hover{
+h2:hover{
     text-decoration: underline;
-} */
+}
